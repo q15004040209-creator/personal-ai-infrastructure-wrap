@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.aione/
+.aione-research/
+.aione-writer/
+*.log
+.DS_Store
+.env
+coverage/
+*.tsbuildinfo
